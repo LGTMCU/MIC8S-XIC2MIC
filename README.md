@@ -2,9 +2,9 @@
 Generate MIC8S binary code
 
 # Usage
-Example: xic2mic.exe -f test.hex --mh
+Example: xic2mic.exe -f test.hex --mh<br/>
   above command will try to generate hex code file for mic8s from PIC14 (default) code
-  
+<br/>  
 Options:
   -f filename   : give source file name, support binary or hex format.
   -cx src_arch  : specify source architecture:
