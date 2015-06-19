@@ -9,7 +9,7 @@ Options:
 * -f filename   : give source file name, support binary or hex format.  
 * -cx src_arch  : specify source architecture:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arc_arch = [PIC14, PIC12, 78X153, 8PX53]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;default for PIC14 is src_arch not given.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;default for PIC14 if src_arch not given.  
 * -cm mic_arch  : specify target architecture, here only MIC8S supported.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;default for MIC8S is mic_arch not given.   
 * --xb          : convert source binary to hex.  
